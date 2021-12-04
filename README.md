@@ -1,8 +1,8 @@
-#LeetCode
+# [LeetCode](https://leetcode.com/) coding challanges
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this repo, I am storing solutions to coding challanges in LeetCode.
+> In this repository, I store solutions to LeetCode coding challanges.
 
 ## Stacks
 
