@@ -13,11 +13,12 @@ class Solution {
             row.add(1);
             
             for (int j=1; j<i; j++) {
-                row.add(prev_row.get(j-1) + prev_row.get(j));
+                row.add(prev_row.get(j-1)+prev_row.get(j));
             }
             row.add(1);
             triangle.add(row);
         }
+        
         return triangle;
     }
 }
